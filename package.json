@@ -1,0 +1,16 @@
+{
+  "name": "lowercasesample",
+  "version": "1.0.0",
+  "description": "change string to lowercase",
+  "node-red": {
+    "nodes": {
+      "lower-case": "lower-case.js"
+    }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bishoy Melek - Sample",
+  "license": "ISC"
+}
